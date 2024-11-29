@@ -8,6 +8,6 @@ package MODEL;
  *
  * @author ASUS
  */
-public class Search {
+public class MySQLConnection {
     
 }

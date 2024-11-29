@@ -115,7 +115,7 @@ public class PROV_NTB extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // TODO add your handling code here:
-        HOME homePage = new HOME(); // Buat instance frame HOME
+        BERRANDAFIX homePage = new BERRANDAFIX(); // Buat instance frame HOME
         homePage.setVisible(true); // Tampilkan halaman HOME
         this.dispose(); // Tutup frame yang sedang aktif (opsional)
     }//GEN-LAST:event_jButton1ActionPerformed

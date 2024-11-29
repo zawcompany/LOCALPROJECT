@@ -8,19 +8,20 @@ package MODEL;
  *
  * @author ASUS
  */
-public class Province {
-
-    public static String searchProvince(String keyword) {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
+public class Destination {
     private String name;
 
-    public Province(String name) {
+    public Destination(String name) {
         this.name = name;
     }
 
+    // Getters and setters
     public String getName() {
         return name;
     }
 
+    public void setName(String name) {
+        this.name=name;
+    }
 }
+
